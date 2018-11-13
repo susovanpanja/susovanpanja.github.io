@@ -33,14 +33,6 @@ img.photo {
 
 .contacts dd { margin-left: 65px; }
 
-.item {
-	border-bottom: 1px solid #eee;
-}
-
-.item:last-child {
-	border-bottom: none;
-}
-
 header.main h3 {
 	margin-top: 0.3em; text-align: left
 }
