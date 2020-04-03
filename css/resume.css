@@ -29,6 +29,12 @@ img.photo {
 	margin: 20px 0;
 }
 
+img.photo2 {
+	width: 300px;
+	height: auto;
+	margin: 20px 0;
+}
+
 .contacts dt { width: 60px; text-align: left }
 
 .contacts dd { margin-left: 65px; }
